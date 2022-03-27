@@ -1,0 +1,68 @@
+[
+    {
+        "artistName": "Sonu Nigam",
+        "songName": "Ada",
+        "songPath": "backend/songs/song/Ada.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Anirudh Ravichander, Jonita Gandhi",
+        "songName": "Arabic Kuthu",
+        "songPath": "backend/songs/song/Arabic_Kuthu.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Pritam Chakraborty",
+        "songName": "Bhool Bhulaiyaa",
+        "songPath": "backend/songs/song/Bhool_Bhulaiyaa.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Aditya A",
+        "songName": "Chaand Baaliyan",
+        "songPath": "backend/songs/song/Chaand_Baaliyan.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Years & Years",
+        "songName": "DESIRES",
+        "songPath": "backend/songs/song/DESIRES.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Elley Duhé",
+        "songName": "Middle Of The Night",
+        "songPath": "backend/songs/song/Middle_of_the_Night.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Ankur Tewari, Lothika",
+        "songName": "Gehraiyaan",
+        "songPath": "backend/songs/song/Gehraiyaan.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Maroon 5",
+        "songName": "Sugar",
+        "songPath": "backend/songs/song/Sugar.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Ritviz",
+        "songName": "Udd Gaye",
+        "songPath": "backend/songs/song/Udd_Gaye.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "OneRepublic",
+        "songName": "Counting Stars",
+        "songPath": "backend/songs/song/Counting_Stars.mp3",
+        "imagePath": ""
+    },
+    {
+        "artistName": "Arijit Singh, Neeti Mohan",
+        "songName": "Mere Yaara",
+        "songPath": "backend/songs/song/Mere_Yaaraa.mp3",
+        "imagePath": ""
+    }
+]
